@@ -1,5 +1,9 @@
 them file moi
 them line moi ben tutorial 2
 
+<<<<<<< HEAD
 
 cha biet nua có phai ko
+=======
+1111111111111111111111111111
+>>>>>>> 7d280054755db85317b60e46a8b5a5fa4c59e44e
