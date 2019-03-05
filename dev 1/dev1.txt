@@ -1,1 +1,2 @@
 file dev1
+sua 1 chut o dev1
